@@ -1,0 +1,23 @@
+{
+  "title": "Adapt to the Person, Not the Place: Person-Referenced Deployment Adaptation of Radar-Based Activity Recognition for Older Adults",
+  "source_dataset_doi": "10.5525/gla.researchdata.848",
+  "sites": {
+    "development": "NG Homes",
+    "confirmation": "Age UK West Cumbria"
+  },
+  "seeds": [
+    7,
+    42,
+    123,
+    3407,
+    2026
+  ],
+  "classes": [
+    "walking",
+    "sitting_down",
+    "standing_up",
+    "picking_up",
+    "drinking"
+  ],
+  "scope": "Saved derived predictions and metrics. Raw radar recordings and model weights are not redistributed in this package."
+}

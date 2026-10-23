@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+type: dataset
+message: "Please cite this versioned research-data release and the original radar dataset when using these results."
+title: "Person-Referenced Deployment Adaptation of Radar-Based Activity Recognition: Derived Predictions and Results"
+authors:
+  - family-names: Bian
+    given-names: Yanbo
+  - family-names: Wang
+    given-names: Zhihai
+version: 1.0.0
+date-released: 2026-10-23
+url: "https://github.com/bianyanbo44-afk/prda-radar-adaptation"
+repository-code: "https://github.com/bianyanbo44-afk/prda-radar-adaptation"

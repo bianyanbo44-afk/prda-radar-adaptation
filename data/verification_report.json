@@ -1,0 +1,5 @@
+{
+  "prediction_runs_verified": 220,
+  "maximum_absolute_error": 0.0,
+  "scope": "Full-enrolment main models and TTA: macro-F1, recording accuracy, person-mean quartile accuracy, class recall, per-person accuracy and walking/picking-up-to-drinking error; seed means and sample standard deviations."
+}
